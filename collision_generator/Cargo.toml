@@ -1,0 +1,7 @@
+[package]
+name = "fnv-collider"
+version = "0.1.0"
+
+[dependencies]
+pdqsort = "0.1.2"
+rayon = "0.6.0"
